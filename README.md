@@ -19,7 +19,7 @@
 - 🌱 I’m learning **Next.js** and **TypeScript** to enhance my skills.
 - 🤔 I’m exploring **web animations** and **user experience design**.
 - 💬 Ask me about **React, JavaScript, Frontend Tools**.
-- 📫 How to reach me: **mahabibulbasarshohag@gmail.com**.
+- 📫 How to reach me: **mahabibulbasarshohag1@gmail.com**.
 - ⚡ Fun fact: **I love debugging more than coding!**
 
 ---
