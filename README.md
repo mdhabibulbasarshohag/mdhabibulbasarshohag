@@ -68,7 +68,7 @@
 
 ### 🏆 **GitHub Achievements**
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahabibulbasarshohag&theme=radical&column=6" alt="GitHub Achievements" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdhabibulbasarshohag&theme=radical&column=6" alt="GitHub Achievements" /></a>
 </p>
 
 ---
