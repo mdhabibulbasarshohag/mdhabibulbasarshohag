@@ -35,7 +35,7 @@
 ### 🌐 **Connect With Me**
 <p align="center">
   <a href="https://codepen.io/mahabibulbasarshohag" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/codepen.png" alt="CodePen" height="30" /></a>
-  <a href="https://twitter.com/mahabibulbasar" target="_blank"><img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" height="30" /></a>
+  <a href="https://x.com/mdhabibulbasarx" target="_blank"><img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" height="30" /></a>
   <a href="https://linkedin.com/in/mahabibulbasarshohag" target="_blank"><img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" height="30" /></a>
   <a href="https://stackoverflow.com/users/mahabibulbasarshohag" target="_blank"><img src="https://img.icons8.com/ios-filled/50/FE7A16/stackoverflow.png" alt="Stack Overflow" height="30" /></a>
   <a href="https://instagram.com/mahabibulbasarshohag" target="_blank"><img src="https://img.icons8.com/ios-filled/50/E4405F/instagram.png" alt="Instagram" height="30" /></a>
